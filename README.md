@@ -20,5 +20,5 @@ Os cursos que finalizei foram:
 <li>HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
 <li>HTML5 e CSS3 parte 4: Avançando no CSS
 
-Visualisar o site: https://brunosabbagmachado.github.io/
+Visualisar o site: https://brunosabbagmachado.github.io/primeiro-site/
 
