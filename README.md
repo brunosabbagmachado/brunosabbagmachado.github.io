@@ -2,22 +2,13 @@
 
 Esta é o primeiro site que criei sozinho após fazer os primeiros cursos de HTML e CSS na [Alura](https://www.alura.com.br/). Os desafios que enfrentei foram os de reproduzir e, principalmente, entender o que foi passado no curso para algo criado por mim.
 
-## Tabela de Contéudo
-
-- [Screenshot](#Screenshot)
-- [Links](#links)
-- [Criado com](#criadocom)
-- [Links](#links)
-
-
-### Screenshot
-
-![](./screenshot.jpg)
-
-
 ### Links
 
 - GitHub pages: [primeiro-site](https://brunosabbagmachado.github.io/primeiro-site/)
+
+### Screenshot
+
+![](./imagens/sreen-site.JPG)
 
 
 ### Criadocom
@@ -29,7 +20,7 @@ Esta é o primeiro site que criei sozinho após fazer os primeiros cursos de HTM
 ### Autor
 
 - Linkedin - [@brunosabbagmachado](https://www.linkedin.com/in/brunosabbagmachado/)
-- Github - [Projetos](https://github.com/brunosabbagmachado)
+- GitHub - [Meus Projetos](https://github.com/brunosabbagmachado)
 
 
 ### Cursos da Alura
@@ -40,6 +31,3 @@ Esses foram os cursos que estudei na Alura e usei como minha base para criar ess
 - HTML5 e CSS3 parte 2: Posicionamento, listas e navegação
 - HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas
 - HTML5 e CSS3 parte 4: Avançando no CSS
-
-Visualisar o site: https://brunosabbagmachado.github.io/primeiro-site/
-
