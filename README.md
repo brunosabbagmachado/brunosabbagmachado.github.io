@@ -6,12 +6,8 @@ Esta é o primeiro site que criei sozinho após fazer os primeiros cursos de HTM
 
 - GitHub pages: [primeiro-site](https://brunosabbagmachado.github.io/primeiro-site/)
 
-### Screenshot
 
-![](./imagens/sreen-site.JPG)
-
-
-### Criadocom
+### Criado com
 
 - HTML5
 - CSS3
